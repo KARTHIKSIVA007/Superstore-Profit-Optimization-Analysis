@@ -21,7 +21,7 @@ and providing actionable recommendations.
 4. Audit Ohio market pricing strategy
 
 ## Files
-- `notebooks/01_data_cleaning.ipynb` — Python analysis
-- `sql/analysis_queries.sql` — Business questions in SQL
-- `reports/Superstore_Dashboard.pdf` — Power BI dashboard
-- `reports/Superstore_BA_Report.pdf` — Business recommendation
+- `Notebook/Data Cleaning and analysis.ipynb` — Python analysis
+- `Sql/Business Queries.sql` — Business questions in SQL
+- `Reports/Superstore_Dashboard.pdf` — Power BI dashboard
+- `Reports/Superstore_BA_Report.pdf` — Business recommendation
